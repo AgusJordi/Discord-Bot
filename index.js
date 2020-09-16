@@ -32,4 +32,4 @@ client.on('message', message => {
 
 
 
-client.login('NzU1NjMxMzA5NzIzNzk1NTY2.X2GGfw.uQKbXM2D4yoHt_Ef5-q-ttNpfPg');
+client.login('token discord');
